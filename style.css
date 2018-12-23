@@ -521,10 +521,6 @@
   }
 
   @media screen and (max-width: 600px) {
-  
-    body{
-      overflow: hidden;
-    }
  
     .main{
     width: 100%;
@@ -615,7 +611,6 @@
         position: fixed;
         z-index: 300;
         /*background-color: rgba(168, 0, 0, 0.534);*/
-      overflow-x: hidden;
     }
 
     .nav ul li {
