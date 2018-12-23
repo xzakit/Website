@@ -616,12 +616,7 @@
     }
 
     .nav{
-        height: 0px; 
-        width: 0%;
-        text-align: right;
-        position: fixed;
-        z-index: 300;
-        /*background-color: rgba(168, 0, 0, 0.534);*/
+        display:none;
     }
 
     .nav ul li {
@@ -650,7 +645,9 @@
       display: none;
     }
 
-
+    .contact{
+    display:none;
+    }
 
 
   }
