@@ -518,6 +518,10 @@
 
   @media screen and (max-width: 600px) {
   
+    body{
+      overflow-x: hidden;
+    }
+    
     .skills p{
       text-align: center;
       margin-right: auto;
