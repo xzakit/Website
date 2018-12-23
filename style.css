@@ -606,8 +606,8 @@
     
 
     .entries {
-      grid-template-columns: 40% 40%;
-      grid-gap: 5%;
+      grid-template-columns: 80%;
+      grid-gap: 0%;
       opacity: 1;
     }
 
@@ -636,14 +636,10 @@
     }
 
     .illus img {
-      width: 50%;
-      height: 50%;
-      margin-bottom: 20px;
-      /*margin-left: 20%;*/
-      display: none;
-      border: solid;
-      border-color: rgb(0, 0, 0);
-      
+      width: 0%;
+      height: 0%;
+      margin-bottom: 0px;
+      display: none;     
     }
 
     .chem img{
