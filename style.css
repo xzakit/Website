@@ -12,6 +12,10 @@
     z-index: 1000;
   }
 
+.mobWrap {
+  overflow-x: hidden;
+}
+
   /*The main header text and image*/
 
   .wrap img{
