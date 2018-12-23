@@ -553,11 +553,11 @@
     
     .intro p {
       
-          text-align: center;
-      margin-right: auto;
-      margin-left: auto;  
-    max-width: 80%;
-      
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;  
+    width: 80%;
+    
     }
     
     .skills p{
