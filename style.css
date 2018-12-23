@@ -522,6 +522,16 @@
       overflow: hidden;
     }
  
+    .main{
+    width: 100%;
+      
+    }
+    
+    .main h1 {
+    top:60%;
+    
+    }
+    
   .wrap img{
     max-height: 65%;
     max-width: 65%;
@@ -533,7 +543,7 @@
     border-radius: 100%;
     margin: auto;
     padding: 0%;
-    margin-top: 0%;
+    margin-top: 10%;
     top: 10%;
     bottom: 0;
     left: 0;
