@@ -561,6 +561,7 @@
     .entries {
       grid-template-columns: 40% 40%;
       grid-gap: 5%;
+      opacity: 1;
     }
 
     .deg img{
