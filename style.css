@@ -528,13 +528,14 @@
     }
     
     .main h1 {
-    top:60%;
+    top:50%;
+    font-size: 30px;
     
     }
     
   .wrap img{
     max-height: 65%;
-    max-width: 65%;
+    max-width: 75%;
     position: absolute;
     z-index: 99;
     border: solid;
