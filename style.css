@@ -528,13 +528,13 @@
     }
     
     .main h1 {
-    top:50%;
-    font-size: 30px;
+    top:40%;
+    font-size: 20px;
     
     }
     
   .wrap img{
-    max-height: 65%;
+    max-height: 75%;
     max-width: 75%;
     position: absolute;
     z-index: 99;
@@ -544,12 +544,17 @@
     border-radius: 100%;
     margin: auto;
     padding: 0%;
-    margin-top: 10%;
+    margin-top: 12%;
     top: 10%;
     bottom: 0;
     left: 0;
     right: 0; 
   }
+    
+    .intro p {
+    width: 80%;
+      
+    }
     
     .skills p{
       text-align: center;
