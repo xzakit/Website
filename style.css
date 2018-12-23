@@ -532,8 +532,8 @@
     }
     
     .main h1 {
-    top:40%;
-    font-size: 20px;
+    top:70%;
+    font-size: 30px;
     
     }
     
@@ -548,7 +548,7 @@
     border-radius: 100%;
     margin: auto;
     padding: 0%;
-    margin-top: 12%;
+    margin-top: 10%;
     top: 10%;
     bottom: 0;
     left: 0;
@@ -615,6 +615,7 @@
         position: fixed;
         z-index: 300;
         /*background-color: rgba(168, 0, 0, 0.534);*/
+      overflow-x: hidden;
     }
 
     .nav ul li {
