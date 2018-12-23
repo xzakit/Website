@@ -550,6 +550,17 @@
     left: 0;
     right: 0; 
   }
+      .main{
+    background-image:url("https://i.imgur.com/e5d5jMH.jpg"); 
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    overflow-x: hidden;
+    width: 100%;
+  }
+    
     
     .intro p {
       
